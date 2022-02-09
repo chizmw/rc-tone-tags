@@ -1,16 +1,16 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "tone-tags",
-  "title": "tone tags",
+  "title": "Tone Tags",
   "description": "Make it easier to find and use tone tags from https://tonetags.carrd.co/#masterlist",
-  "icon": "command-icon.png",
+  "icon": "rc-tone-tags.png",
   "author": "chizmw",
   "license": "MIT",
   "commands": [
     {
       "name": "index",
-      "title": "tone tags",
-      "description": "Template with a plain detail view",
+      "title": "Search Tone Tags",
+      "description": "find a tone tag to use in conversation",
       "mode": "view"
     }
   ],
